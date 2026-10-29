@@ -1,6 +1,6 @@
 # UNFOLD
 
-**You wrote this. Now look at what you’ve done**
+**You wrote this. Now look at what you’ve done.**
 
 [**Play the live game →**](https://unfold-paper-stories.woollymap129.chatgpt.site)
 
