@@ -1,10 +1,11 @@
 # UNFOLD
 
-**Everyone contributes. Nobody knows the plot.**
+**You wrote this. Now look at what you’ve done**
 
 [**Play the live game →**](https://unfold-paper-stories.woollymap129.chatgpt.site)
 
 A collaborative story game for 4–8 people. Open it on a TV or laptop, scan the room QR code with your phones, and write simultaneously. Every question sends you to a different story. At the end, unfold what you accidentally wrote together.
+‘Can’t look away’ = complicity. Everyone secretly contributes to a story without seeing what anyone else wrote. When it unfolds, you’re watching a disaster you helped create and waiting to discover what your innocent sentence has become. It’s a game where you have to look away first, to create something you can’t look away from.
 
 ## Play
 
