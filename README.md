@@ -15,6 +15,8 @@ A collaborative story game for 4–8 people. Open it on a TV or laptop, scan the
 
 One-device pass-and-play and a clearly labeled solo sample are also included.
 
+Opening the main site link always shows the home page. Choose **Resume saved game** to return to progress saved on this device. Room invite links still open the join screen.
+
 ## What's included
 
 - Six themes: Family Classic, Office Heist, Disastrous Product Launch, Space Emergency, Fairy-Tale Chaos, and Nature Documentary.

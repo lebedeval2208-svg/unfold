@@ -1,5 +1,7 @@
 # UNFOLD
 
+Opening the main site link always shows the home page. To return to progress saved on this device, choose **Resume saved game**. Room invite links still open the join screen, and TV display links still open their shared display.
+
 Everyone contributes. Nobody knows the plot.
 
 ## What is implemented
